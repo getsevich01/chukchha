@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chukchha
+- 👋 Hi, I’m @getsevich
 - 👀 I’m interested in javascript (fronted dev)
 - 📫 How to reach me gmail: r.getsevich@gmail.com
 
